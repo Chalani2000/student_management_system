@@ -1,5 +1,5 @@
 <h1 align="center">
-    SCHOOL MANAGEMENT SYSTEM
+    SCHOOL_MANAGEMENT_SYSTEM
 </h1>
 
 <h3 align="center">
@@ -7,11 +7,6 @@ Streamline school management, class organization, and add students and faculty.<
 Seamlessly track attendance, assess performance, and provide feedback. <br>
 Access records, view marks, and communicate effortlessly.
 </h3>
-
-<br>
-[Youtube Video](https://youtu.be/ol650KwQkgY?si=rKcboqSv3n-e4UbC)
-<br><br>
-[LinkedIn](https://www.linkedin.com/in/yogndr/)
 
 # About
 
